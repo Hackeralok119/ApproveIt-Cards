@@ -1,5 +1,3 @@
-# ApproveIt-Cards
-
 # Card Creation & Approval Bot (Educational Purposes)
 
 This project is an educational tool demonstrating the creation and management of virtual cards with an approval/decline workflow via a Telegram bot.
@@ -14,7 +12,7 @@ This tool allows users to:
 4.  **Admin Interface (Simulated):** Simulate an admin panel where approval or decline actions can be taken.
 5.  **Notification:** Receive notifications via the Telegram bot about the approval or decline status.
 
-**Please Note:** This project is strictly for educational purposes to illustrate software development concepts and should not be used for any real financial transactions or activities. The card details generated are not real and do not hold any monetary value.
+**Please Note:** This project is strictly for educational purposes to illustrate software development concepts. While the generated details *might* interact with trial applications or websites, potentially incurring charges if not carefully managed and requiring a good internet connection, **they are not real financial instruments and should not be used for actual transactions.** This is purely for educational exploration.
 
 ## Features
 
@@ -32,9 +30,19 @@ This project is a conceptual demonstration. To understand how it works, you woul
 3.  Interact with the Telegram bot to create and submit "cards."
 4.  Observe how the bot sends approval/decline requests and how those actions are reflected back to the user.
 
+## Contact the Owner
+
+For any inquiries or further information, you can reach the owner here:
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackeralok2.0?igsh=MXh2aDNvbDUweHQ4YQ==)
+
+Join our Telegram channel for more tools and updates:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Specialnewtools)
+
 ## Disclaimer
 
-This tool is intended solely for educational purposes. The generation of card details is random and does not correspond to real financial instruments. Do not use this tool for any activity involving real money or sensitive personal information.
+This tool is intended solely for educational purposes. The generation of card details is random and does not correspond to real financial instruments. **Do not use this tool for any activity involving real money.** Any potential interaction with trial apps or websites that might lead to charges is outside the scope of this educational demonstration, and users should exercise extreme caution. This tool is not designed for generating any form of financial gain.
 
 ## Contributing
 
@@ -46,5 +54,3 @@ Feel free to open issues for suggestions or improvements.
 (Add your preferred license here, e.g., MIT License)
 
 ---
-
-Feel free to modify this to better reflect the specifics of your tool. Let me know if you'd like any adjustments or further additions!
